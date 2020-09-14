@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortfolioSite/static/css/main.150c4107.chunk.css",
+    "main.js": "/PortfolioSite/static/js/main.207de366.chunk.js",
+    "main.js.map": "/PortfolioSite/static/js/main.207de366.chunk.js.map",
+    "runtime-main.js": "/PortfolioSite/static/js/runtime-main.4eb251b0.js",
+    "runtime-main.js.map": "/PortfolioSite/static/js/runtime-main.4eb251b0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/PortfolioSite/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e7a9034b.chunk.js": "/PortfolioSite/static/js/2.e7a9034b.chunk.js",
+    "static/js/2.e7a9034b.chunk.js.map": "/PortfolioSite/static/js/2.e7a9034b.chunk.js.map",
+    "index.html": "/PortfolioSite/index.html",
+    "precache-manifest.dd854958b814523032a734733b9cdf93.js": "/PortfolioSite/precache-manifest.dd854958b814523032a734733b9cdf93.js",
+    "service-worker.js": "/PortfolioSite/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/PortfolioSite/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.150c4107.chunk.css.map": "/PortfolioSite/static/css/main.150c4107.chunk.css.map",
+    "static/js/2.e7a9034b.chunk.js.LICENSE.txt": "/PortfolioSite/static/js/2.e7a9034b.chunk.js.LICENSE.txt",
+    "static/media/colormemorygame.jpg": "/PortfolioSite/static/media/colormemorygame.6693a378.jpg",
+    "static/media/mountainswebsite.jpg": "/PortfolioSite/static/media/mountainswebsite.5b1e6588.jpg",
+    "static/media/patatap.jpg": "/PortfolioSite/static/media/patatap.dec27843.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb251b0.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e7a9034b.chunk.js",
+    "static/css/main.150c4107.chunk.css",
+    "static/js/main.207de366.chunk.js"
+  ]
+}
