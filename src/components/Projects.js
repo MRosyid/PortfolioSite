@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Container, Row, Card,} from 'react-bootstrap';
+import quizApp from '../assets/quizapp.jpg';
 import patatap from '../assets/patatap.jpg';
 import colorGame from '../assets/colormemorygame.jpg';
 import mountainsWeb from '../assets/mountainswebsite.jpg';
@@ -8,6 +9,13 @@ import mountainsWeb from '../assets/mountainswebsite.jpg';
 class Projects extends Component {
     static defaultProps = {
         data: [
+            {
+                title: "Quiz App",
+                pic: quizApp,
+                descr: "An app made using React where you can take a quiz and provides your results.",
+                githb: "https://github.com/MRosyid/QuizApp",
+                live: "https://ancient-ravine-49664.herokuapp.com/",
+            },
             {
                 title: "Patatap Clone",
                 pic: patatap,
@@ -34,14 +42,14 @@ class Projects extends Component {
 
     render() {
         return (
-            <div>
+            <div className="Container">
                 {/* Displaying data in cards */}
-                <Container fluid className="Container mt-5">
+                <Container fluid className="mt-5">
                     <Row className=" Row justify-content-center">
                         {
                             this.props.data.map(d => (
                                 <Card className="Cards col-lg-4 col-xl-3" key={d.title}>
-                                    <img className="Card-picture" src={d.pic} alt={d.title} />
+                                    <img className="card-picture" src={d.pic} alt={d.title} />
                                     <h4>{d.title}</h4>
                                     <p>{d.descr}</p>
                                     <div>

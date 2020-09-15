@@ -47,6 +47,10 @@ $secondary-color: rgb(142,142,147);
     }
   }
 
+  .navigation-bar a{
+    margin: 0 0.5rem;
+  }
+
   .Home{
     padding: 2rem;
     height: 100%;
@@ -70,13 +74,13 @@ $secondary-color: rgb(142,142,147);
     color: $secondary-color;
   }
 
-   .Navigation-bar{
+   .navigation-bar{
      width: 100%;
      margin: 0 0 5px 0;
      @include easeOut();
    }
 
-   .About-head{
+   .about-head{
      background: none;
      font-weight: 600;
      color: rgb(72,72,74);
@@ -88,7 +92,7 @@ $secondary-color: rgb(142,142,147);
      }
    }
 
-   .About-body{
+   .about-body{
     color: rgb(72,72,74);
     background: none;
     margin: none;
@@ -100,12 +104,12 @@ $secondary-color: rgb(142,142,147);
       margin-bottom: 0.5rem;
     }
 
-    .About-titles{
+    .about-titles{
       font-style: italic;
     }
   }
 
-  .Back-text{
+  .back-text{
     position: fixed;
     overflow: hidden;
     width: 100%;
@@ -120,13 +124,15 @@ $secondary-color: rgb(142,142,147);
 
   .Row{
     height: 60vh;
+    width: 100%;
   }
 
   .Cards{
-    margin:0 1rem 1rem 1rem;
+    margin:0 0.5rem 1rem 0.5rem;
+    padding: 1rem 1rem;
   }
 
-  .Card-picture{
+  .card-picture{
     width: 100%;
     height: 70%;
     object-fit: cover;
@@ -142,12 +148,12 @@ $secondary-color: rgb(142,142,147);
     color: $secondary-color;
   }
 
-  .Nav-item{
+  .nav-item{
     color: black;
     margin-left: 0.5rem;
   }
 
-  .Nav-item:hover{
+  .nav-item:hover{
     text-decoration: none;
     color: $secondary-color;
   }

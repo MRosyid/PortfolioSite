@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1 className="Back-text">
+        <h1 className="back-text">
           Welcome
         </h1>
         <NavigationBar />

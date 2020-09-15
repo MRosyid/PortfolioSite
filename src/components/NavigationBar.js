@@ -13,10 +13,10 @@ class NavigationBar extends Component {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav>
                             <Nav.Item>
-                                <NavLink className="Nav-item" to="/">Projects</NavLink>
+                                <NavLink className="nav-item" to="/">Projects</NavLink>
                             </Nav.Item>
                             <Nav.Item>
-                                <NavLink className="Nav-item" to="/resume">About Me</NavLink>
+                                <NavLink className="nav-item" to="/resume">About Me</NavLink>
                             </Nav.Item>
                         </Nav>
                     </Navbar.Collapse>
