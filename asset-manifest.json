@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/PortfolioSite/static/css/main.96823ca5.chunk.css",
-    "main.js": "/PortfolioSite/static/js/main.2cf13e9c.chunk.js",
-    "main.js.map": "/PortfolioSite/static/js/main.2cf13e9c.chunk.js.map",
+    "main.css": "/PortfolioSite/static/css/main.272a87fb.chunk.css",
+    "main.js": "/PortfolioSite/static/js/main.997ce633.chunk.js",
+    "main.js.map": "/PortfolioSite/static/js/main.997ce633.chunk.js.map",
     "runtime-main.js": "/PortfolioSite/static/js/runtime-main.4eb251b0.js",
     "runtime-main.js.map": "/PortfolioSite/static/js/runtime-main.4eb251b0.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/PortfolioSite/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.a5c55d78.chunk.js": "/PortfolioSite/static/js/2.a5c55d78.chunk.js",
-    "static/js/2.a5c55d78.chunk.js.map": "/PortfolioSite/static/js/2.a5c55d78.chunk.js.map",
+    "static/js/2.f149dd6c.chunk.js": "/PortfolioSite/static/js/2.f149dd6c.chunk.js",
+    "static/js/2.f149dd6c.chunk.js.map": "/PortfolioSite/static/js/2.f149dd6c.chunk.js.map",
     "index.html": "/PortfolioSite/index.html",
-    "precache-manifest.31dd82dafe8be3afbfd35633a6752f9c.js": "/PortfolioSite/precache-manifest.31dd82dafe8be3afbfd35633a6752f9c.js",
+    "precache-manifest.b518b9652e59cba9728ddd5c48766b12.js": "/PortfolioSite/precache-manifest.b518b9652e59cba9728ddd5c48766b12.js",
     "service-worker.js": "/PortfolioSite/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/PortfolioSite/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.96823ca5.chunk.css.map": "/PortfolioSite/static/css/main.96823ca5.chunk.css.map",
-    "static/js/2.a5c55d78.chunk.js.LICENSE.txt": "/PortfolioSite/static/js/2.a5c55d78.chunk.js.LICENSE.txt",
+    "static/css/main.272a87fb.chunk.css.map": "/PortfolioSite/static/css/main.272a87fb.chunk.css.map",
+    "static/js/2.f149dd6c.chunk.js.LICENSE.txt": "/PortfolioSite/static/js/2.f149dd6c.chunk.js.LICENSE.txt",
     "static/media/colormemorygame.jpg": "/PortfolioSite/static/media/colormemorygame.6693a378.jpg",
     "static/media/mountainswebsite.jpg": "/PortfolioSite/static/media/mountainswebsite.5b1e6588.jpg",
-    "static/media/patatap.jpg": "/PortfolioSite/static/media/patatap.dec27843.jpg"
+    "static/media/patatap.jpg": "/PortfolioSite/static/media/patatap.dec27843.jpg",
+    "static/media/quizapp.jpg": "/PortfolioSite/static/media/quizapp.7051663c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4eb251b0.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.a5c55d78.chunk.js",
-    "static/css/main.96823ca5.chunk.css",
-    "static/js/main.2cf13e9c.chunk.js"
+    "static/js/2.f149dd6c.chunk.js",
+    "static/css/main.272a87fb.chunk.css",
+    "static/js/main.997ce633.chunk.js"
   ]
 }
