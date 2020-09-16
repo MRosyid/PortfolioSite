@@ -12,7 +12,7 @@ class Resume extends Component {
                             <Jumbotron className="about-head">
                                 <h1>Matin Rosyid</h1>
                                 <p className="Stack">
-                                    HTML5 | CSS | Bootstrap | Javascript | React | Python | C++
+                                    HTML5 | CSS3/SASS | Bootstrap | Javascript | React | Python | C++
                                 </p>
                                 <p>
                                     email: matinrosyid@live.com

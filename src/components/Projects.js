@@ -12,7 +12,7 @@ class Projects extends Component {
             {
                 title: "Quiz App",
                 pic: quizApp,
-                descr: "An app made using React where you can take a quiz and provides your results.",
+                descr: "An app made using React where you can take a quiz and shows you the results.",
                 githb: "https://github.com/MRosyid/QuizApp",
                 live: "https://ancient-ravine-49664.herokuapp.com/",
             },
