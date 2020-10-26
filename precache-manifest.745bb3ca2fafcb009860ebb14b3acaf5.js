@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b455af93d7801bef165e56922df2f278",
+    "revision": "b02afa8847283a9f30b5cb12c4114cdf",
     "url": "/PortfolioSite/index.html"
   },
   {
-    "revision": "c50baade1eacf32d8f8a",
+    "revision": "232b3151da14ff970f66",
     "url": "/PortfolioSite/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "53ddfe6c0c34352ccda5",
+    "revision": "683306a84b3f2a5aac71",
     "url": "/PortfolioSite/static/css/main.272a87fb.chunk.css"
   },
   {
-    "revision": "c50baade1eacf32d8f8a",
-    "url": "/PortfolioSite/static/js/2.f149dd6c.chunk.js"
+    "revision": "232b3151da14ff970f66",
+    "url": "/PortfolioSite/static/js/2.aabf1964.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/PortfolioSite/static/js/2.f149dd6c.chunk.js.LICENSE.txt"
+    "url": "/PortfolioSite/static/js/2.aabf1964.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53ddfe6c0c34352ccda5",
-    "url": "/PortfolioSite/static/js/main.07a55af0.chunk.js"
+    "revision": "683306a84b3f2a5aac71",
+    "url": "/PortfolioSite/static/js/main.2dbc9c58.chunk.js"
   },
   {
     "revision": "aa0fb92b507b1de6669c",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7051663c2f37fd1bfb7092481ded53af",
     "url": "/PortfolioSite/static/media/quizapp.7051663c.jpg"
+  },
+  {
+    "revision": "8ba49b671e7fe6c2554196a70c4cd2f8",
+    "url": "/PortfolioSite/static/media/yelpcastle.8ba49b67.jpg"
   }
 ]);
