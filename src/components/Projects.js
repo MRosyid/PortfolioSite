@@ -1,32 +1,40 @@
 import React, { Component } from 'react';
-import { Container, Row, Card,} from 'react-bootstrap';
+import { Container, Row, Card, } from 'react-bootstrap';
 import quizApp from '../assets/quizapp.jpg';
 import patatap from '../assets/patatap.jpg';
 import colorGame from '../assets/colormemorygame.jpg';
 import mountainsWeb from '../assets/mountainswebsite.jpg';
+import yelpCastle from '../assets/yelpcastle.jpg';
 
 // Defining the projects in cards
 class Projects extends Component {
     static defaultProps = {
         data: [
             {
+                title: "Yelp Castle",
+                pic: yelpCastle,
+                descr: "A Yelp replica created using MongoDb, Express and NodeJS. Supports cloud CRUD operations and authentication.",
+                githb: "https://github.com/MRosyid/YelpCastle",
+                live: "https://mrosyid-yelp-castle.herokuapp.com/",
+            },
+            {
                 title: "Quiz App",
                 pic: quizApp,
-                descr: "An app made using React where you can take a quiz and shows you the results.",
+                descr: "A React quiz app which incorporates a timer, responsive hint function and performance evaluation.",
                 githb: "https://github.com/MRosyid/QuizApp",
-                live: "https://ancient-ravine-49664.herokuapp.com/",
+                live: "https://mrosyid-quiz-app.herokuapp.com/",
             },
             {
                 title: "Patatap Clone",
                 pic: patatap,
-                descr: "A clone made by utilising the source animation and sound libraries.",
+                descr: "A clone made by utilising the source animation and sound libraries to create a dynamic music instrument.",
                 githb: "https://github.com/MRosyid/PatatapClone",
                 live: "https://mrosyid.github.io/PatatapClone/",
             },
             {
                 title: "Colour Memory Game",
                 pic: colorGame,
-                descr: "A colour game generating random colours that was build using Javascript DOM manipulation",
+                descr: "A colour game which generates random colours to test memory. Build using Javascript DOM manipulation",
                 githb: "https://github.com/MRosyid/ColorMemoryGame",
                 live: "https://mrosyid.github.io/ColorMemoryGame/",
             },
@@ -49,12 +57,14 @@ class Projects extends Component {
                         {
                             this.props.data.map(d => (
                                 <Card className="Cards col-lg-4 col-xl-3" key={d.title}>
-                                    <img className="card-picture" src={d.pic} alt={d.title} />
-                                    <h4>{d.title}</h4>
-                                    <p>{d.descr}</p>
+                                    <img className="img-responsive" width="100%" src={d.pic} alt={d.title} />
+                                    <h4 class="mt-1">{d.title}</h4>
+                                    <div class="mb-0">
+                                        <p>{d.descr}</p>
+                                    </div>
                                     <div>
-                                    <a className="links" target="_blank" rel="noopener noreferrer" href={d.githb}> GITHUB </a>
-                                    <a className="links" target="_blank" rel="noopener noreferrer" href={d.live}> LIVE DEMO </a>
+                                        <a className="links" target="_blank" rel="noopener noreferrer" href={d.githb}> GITHUB </a>
+                                        <a className="links" target="_blank" rel="noopener noreferrer" href={d.live}> LIVE DEMO </a>
                                     </div>
                                 </Card>
                             ))
