@@ -19,18 +19,18 @@ class Projects extends Component {
                 live: "https://mrosyid-yelp-castle.herokuapp.com/",
             },
             {
-                title: "Quiz App",
-                pic: quizApp,
-                descr: "A React quiz app which incorporates a timer, responsive hint function and performance evaluation.",
-                githb: "https://github.com/MRosyid/QuizApp",
-                live: "https://mrosyid-quiz-app.herokuapp.com/",
-            },
-            {
                 title: "Flex Marketing Page",
                 pic: skyHigh,
                 descr: "Used only HTML5 and CSS3 to create a responsive marketing page focused on exploring Flexbot",
                 githb: "https://github.com/MRosyid/FlexMarketingPage",
                 live: "https://mrosyid.github.io/FlexMarketingPage/",
+            },
+            {
+                title: "Quiz App",
+                pic: quizApp,
+                descr: "A React quiz app which incorporates a timer, responsive hint function and performance evaluation.",
+                githb: "https://github.com/MRosyid/QuizApp",
+                live: "https://mrosyid-quiz-app.herokuapp.com/",
             },
             {
                 title: "Patatap Clone",
