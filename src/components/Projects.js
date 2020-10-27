@@ -5,6 +5,7 @@ import patatap from '../assets/patatap.jpg';
 import colorGame from '../assets/colormemorygame.jpg';
 import mountainsWeb from '../assets/mountainswebsite.jpg';
 import yelpCastle from '../assets/yelpcastle.jpg';
+import skyHigh from '../assets/skyhightours.jpg';
 
 // Defining the projects in cards
 class Projects extends Component {
@@ -23,6 +24,13 @@ class Projects extends Component {
                 descr: "A React quiz app which incorporates a timer, responsive hint function and performance evaluation.",
                 githb: "https://github.com/MRosyid/QuizApp",
                 live: "https://mrosyid-quiz-app.herokuapp.com/",
+            },
+            {
+                title: "Flex Marketing Page",
+                pic: skyHigh,
+                descr: "Used only HTML5 and CSS3 to create a responsive marketing page focused on exploring Flexbot",
+                githb: "https://github.com/MRosyid/FlexMarketingPage",
+                live: "https://mrosyid.github.io/FlexMarketingPage/",
             },
             {
                 title: "Patatap Clone",
