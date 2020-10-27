@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c14aee59cb1923ed9c5757b46f8f899",
+    "revision": "311365b2e17238839acb2f0fa8b68e7f",
     "url": "/PortfolioSite/index.html"
   },
   {
-    "revision": "232b3151da14ff970f66",
+    "revision": "40ea08b52bcb0d65b06a",
     "url": "/PortfolioSite/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "8d0495a31e668df4e524",
+    "revision": "e5c095f8d3b139940c8f",
     "url": "/PortfolioSite/static/css/main.272a87fb.chunk.css"
   },
   {
-    "revision": "232b3151da14ff970f66",
-    "url": "/PortfolioSite/static/js/2.aabf1964.chunk.js"
+    "revision": "40ea08b52bcb0d65b06a",
+    "url": "/PortfolioSite/static/js/2.23747158.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/PortfolioSite/static/js/2.aabf1964.chunk.js.LICENSE.txt"
+    "url": "/PortfolioSite/static/js/2.23747158.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d0495a31e668df4e524",
-    "url": "/PortfolioSite/static/js/main.87d029c1.chunk.js"
+    "revision": "e5c095f8d3b139940c8f",
+    "url": "/PortfolioSite/static/js/main.83aa5da6.chunk.js"
   },
   {
     "revision": "aa0fb92b507b1de6669c",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7051663c2f37fd1bfb7092481ded53af",
     "url": "/PortfolioSite/static/media/quizapp.7051663c.jpg"
+  },
+  {
+    "revision": "e6ba9edcfa0e81e6a17938b0435a975d",
+    "url": "/PortfolioSite/static/media/skyhightours.e6ba9edc.jpg"
   },
   {
     "revision": "8ba49b671e7fe6c2554196a70c4cd2f8",
